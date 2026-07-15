@@ -150,6 +150,7 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
   </div>
 </div>
 
+<div class="speaker">
   <img src="/assets/images/speakers/patricia.png" alt="Patricia Hidalgo-Gonzalez"/>
   <div class="speaker-info">
     <h3><a href="https://patyhidalgo.github.io/phg/" target="_blank">Patricia Hidalgo-Gonzalez</a> <em>(UC San Diego)</em></h3>
