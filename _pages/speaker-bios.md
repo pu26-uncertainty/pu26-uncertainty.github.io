@@ -119,6 +119,14 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
   </div>
 </div>
 
+<div class="speaker">
+  <img src="/assets/images/speakers/alice.jpeg" alt="Alice Yake (Jackson)"/>
+  <div class="speaker-info">
+    <h3>Alice Yake (Jackson) <em>(Breakthrough Energy)</em></h3>
+    <p>Alice Yake is Vice President of GRIDS at Breakthrough Energy, where she leads efforts to develop open-source tools for delivering reliable, low-emission electricity globally. Over 20+ years in the energy industry — including roles at Enron, Oxy, and nearly 14 years at Xcel Energy as President of Colorado and Chief Planning Officer — she has built expertise in system design, regulation, and the path to a zero-carbon electric system.</p>
+  </div>
+</div>
+
 
 ## <span id="panel-1-industry-perspectives" class="gradient-heading">Panel 1: Industry Perspectives</span>
 
@@ -130,19 +138,18 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
   </div>
 </div>
 
-<p>Other panelists include Jesse Jenkins (Princeton University) and Bethany Frew (NLR).</p>
+<p>Other panelists include Alice Yake (Jackson) (Breakthrough Energy), Jesse Jenkins (Princeton University), and Bethany Frew (NLR).</p>
 
 ## <span id="panel-2-methodological-challenges" class="gradient-heading">Panel 2: Methodological Challenges</span>
 
 <div class="speaker">
   <img src="/assets/images/speakers/beste.jpeg" alt="Beste Basciftci"/>
   <div class="speaker-info">
-    <h3><a href="https://sites.google.com/view/bestebasciftci/home" target="_blank">Beste Basciftci</a>* <em>(University of Iowa)</em></h3>
+    <h3><a href="https://sites.google.com/view/bestebasciftci/home" target="_blank">Beste Basciftci</a> <em>(University of Iowa)</em></h3>
     <p>Beste Basciftci is an Assistant Professor in the Department of Business Analytics at the University of Iowa, with an additional affiliation to the Applied Mathematical and Computational Sciences program. Her research focuses on data-driven decision making under uncertainty, developing mixed-integer optimization, stochastic programming, and (distributionally) robust optimization approaches for energy systems, supply chains, and transportation.</p>
   </div>
 </div>
 
-<div class="speaker">
   <img src="/assets/images/speakers/patricia.png" alt="Patricia Hidalgo-Gonzalez"/>
   <div class="speaker-info">
     <h3><a href="https://patyhidalgo.github.io/phg/" target="_blank">Patricia Hidalgo-Gonzalez</a> <em>(UC San Diego)</em></h3>
@@ -150,11 +157,31 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
   </div>
 </div>
 
-<p><em>* Participation tentatively confirmed.</em></p>
+<div class="speaker">
+  <img src="/assets/images/speakers/tomas_zuluaga.png" alt="Tomas Valencia Zuluaga"/>
+  <div class="speaker-info">
+    <h3><a href="https://people.llnl.gov/valenciazulu1" target="_blank">Tomas Valencia Zuluaga</a> <em>(Lawrence Livermore National Laboratory)</em></h3>
+    <p>Tomas Valencia Zuluaga is a Postdoctoral Researcher in the Center for Applied Scientific Computing Division at Lawrence Livermore National Laboratory. His research is at the intersection of energy systems and optimization, including electricity markets and power system planning, with current work developing optimization models and algorithms for power grid expansion planning using high-performance computing.</p>
+  </div>
+</div>
 
 More panelists coming soon.
 
 
 ## <span id="spotlights" class="gradient-heading">Spotlights</span>
 
-Spotlight speakers coming soon.
+<div class="speaker">
+  <img src="/assets/images/speakers/aron_brenner.jpg" alt="Aron Brenner"/>
+  <div class="speaker-info">
+    <h3>Aron Brenner <em>(MIT)</em></h3>
+    <p>Aron Brenner is a doctoral student at MIT's Laboratory for Information and Decision Systems (LIDS) and a member of the Resilient Infrastructure Networks group. His research applies machine learning and optimization to the planning and operations of large-scale systems, with a focus on regional energy systems.</p>
+  </div>
+</div>
+
+<div class="speaker">
+  <img src="/assets/images/speakers/thomas_lee.png" alt="Thomas Lee"/>
+  <div class="speaker-info">
+    <h3>Thomas Lee <em>(MIT)</em></h3>
+    <p>Thomas Lee is a PhD candidate in MIT's Institute for Data, Systems, and Society focused on optimization methods for energy systems and markets, working in Professor Andy Sun's lab and the MIT Energy Initiative. </p>
+  </div>
+</div>
