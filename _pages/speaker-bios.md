@@ -122,7 +122,7 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
 <div class="speaker">
   <img src="/assets/images/speakers/alice.jpeg" alt="Alice Yake (Jackson)"/>
   <div class="speaker-info">
-    <h3>Alice Yake (Jackson) <em>(Breakthrough Energy)</em></h3>
+    <h3><a href="https://www.linkedin.com/in/alicekyake" target="_blank">Alice Yake (Jackson)</a> <em>(Breakthrough Energy)</em></h3>
     <p>Alice Yake is Vice President of GRIDS at Breakthrough Energy, where she leads efforts to develop open-source tools for delivering reliable, low-emission electricity globally. Over 20+ years in the energy industry — including roles at Enron, Oxy, and nearly 14 years at Xcel Energy as President of Colorado and Chief Planning Officer — she has built expertise in system design, regulation, and the path to a zero-carbon electric system.</p>
   </div>
 </div>
@@ -174,7 +174,7 @@ More panelists coming soon.
 <div class="speaker">
   <img src="/assets/images/speakers/aron_brenner.jpg" alt="Aron Brenner"/>
   <div class="speaker-info">
-    <h3>Aron Brenner <em>(MIT)</em></h3>
+    <h3><a href="https://www.aronbrenner.com/" target="_blank">Aron Brenner</a> <em>(MIT)</em></h3>
     <p>Aron Brenner is a doctoral student at MIT's Laboratory for Information and Decision Systems (LIDS) and a member of the Resilient Infrastructure Networks group. His research applies machine learning and optimization to the planning and operations of large-scale systems, with a focus on regional energy systems.</p>
   </div>
 </div>
@@ -182,7 +182,9 @@ More panelists coming soon.
 <div class="speaker">
   <img src="/assets/images/speakers/thomas_lee.png" alt="Thomas Lee"/>
   <div class="speaker-info">
-    <h3>Thomas Lee <em>(MIT)</em></h3>
+    <h3><a href="https://www.linkedin.com/in/thomas-lee-mit" target="_blank">Thomas Lee</a> <em>(MIT)</em></h3>
     <p>Thomas Lee is a PhD candidate in MIT's Institute for Data, Systems, and Society focused on optimization methods for energy systems and markets, working in Professor Andy Sun's lab and the MIT Energy Initiative. </p>
   </div>
 </div>
+
+More spotlight speakers coming soon.
