@@ -106,7 +106,7 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
 <div class="speaker">
   <img src="/assets/images/speakers/bethany.jpeg" alt="Bethany Frew"/>
   <div class="speaker-info">
-    <h3><a href="https://research-hub.nlr.gov/en/persons/bethany-frew/" target="_blank">Bethany Frew</a> <em>(National Laboratory of the Rockies)</em></h3>
+    <h3 id="bethany-frew-national-laboratory-of-the-rockies"><a href="https://research-hub.nlr.gov/en/persons/bethany-frew/" target="_blank">Bethany Frew</a> <em>(National Laboratory of the Rockies)</em></h3>
     <p>Bethany Frew is a Senior Researcher and Group Manager of the Capacity Expansion & Electricity Markets Group at the National Laboratory of the Rockies (NLR), where she leads a team focused on capacity expansion, resource adequacy, and wholesale electricity market design.</p>
   </div>
 </div>
@@ -114,7 +114,7 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
 <div class="speaker">
   <img src="/assets/images/speakers/jesse.jpg" alt="Jesse Jenkins"/>
   <div class="speaker-info">
-    <h3><a href="https://zero.lab.princeton.edu/mission-people/jesse-jenkins/" target="_blank">Jesse Jenkins</a> <em>(Princeton University)</em></h3>
+    <h3 id="jesse-jenkins-princeton-university"><a href="https://zero.lab.princeton.edu/mission-people/jesse-jenkins/" target="_blank">Jesse Jenkins</a> <em>(Princeton University)</em></h3>
     <p>Jesse D. Jenkins is an Associate Professor at Princeton University in the Department of Mechanical and Aerospace Engineering and the Andlinger Center for Energy and Environment. He leads the ZERO Lab, which focuses on improving and applying optimization-based energy systems models to evaluate low-carbon energy technologies and generate insights for energy and climate policy and planning.</p>
   </div>
 </div>
@@ -122,7 +122,7 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
 <div class="speaker">
   <img src="/assets/images/speakers/alice.jpeg" alt="Alice Yake (Jackson)"/>
   <div class="speaker-info">
-    <h3><a href="https://www.linkedin.com/in/alicekyake" target="_blank">Alice Yake (Jackson)</a> <em>(Breakthrough Energy)</em></h3>
+    <h3 id="alice-yake-breakthrough-energy"><a href="https://www.linkedin.com/in/alicekyake" target="_blank">Alice Yake (Jackson)</a> <em>(Breakthrough Energy)</em></h3>
     <p>Alice Yake is Vice President of GRIDS at Breakthrough Energy, where she leads efforts to develop open-source tools for delivering reliable, low-emission electricity globally. Over 20+ years in the energy industry — including roles at Enron, Oxy, and nearly 14 years at Xcel Energy as President of Colorado and Chief Planning Officer — she has built expertise in system design, regulation, and the path to a zero-carbon electric system.</p>
   </div>
 </div>
