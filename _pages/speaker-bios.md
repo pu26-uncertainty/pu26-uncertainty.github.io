@@ -166,8 +166,6 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
   </div>
 </div>
 
-More panelists coming soon.
-
 
 ## <span id="spotlights" class="gradient-heading">Spotlights</span>
 
@@ -180,11 +178,17 @@ More panelists coming soon.
 </div>
 
 <div class="speaker">
+  <img src="/assets/images/speakers/mehrnoush.png" alt="Mehrnoush Ghazanfariharandi"/>
+  <div class="speaker-info">
+    <h3><a href="https://sites.google.com/scarletmail.rutgers.edu/mehrnoush-ghazanfariharandi/home" target="_blank">Mehrnoush Ghazanfariharandi</a> <em>(Rutgers University)</em></h3>
+    <p>Mehrnoush Ghazanfariharandi is a PhD candidate in Industrial and Systems Engineering at Rutgers University, working with Professor Robert Mieth in the ROPES Lab. Her research lies at the intersection of power system optimization, machine learning, and energy economics, with a focus on addressing growing uncertainty and data complexity in modern power systems.</p>
+  </div>
+</div>
+
+<div class="speaker">
   <img src="/assets/images/speakers/thomas_lee.png" alt="Thomas Lee"/>
   <div class="speaker-info">
     <h3><a href="https://www.linkedin.com/in/thomas-lee-mit" target="_blank">Thomas Lee</a> <em>(MIT)</em></h3>
     <p>Thomas Lee is a PhD candidate in MIT's Institute for Data, Systems, and Society focused on optimization methods for energy systems and markets, working in Professor Andy Sun's lab and the MIT Energy Initiative. </p>
   </div>
 </div>
-
-More spotlight speakers coming soon.
