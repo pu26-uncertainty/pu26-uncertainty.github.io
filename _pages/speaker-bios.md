@@ -154,7 +154,7 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
   <img src="/assets/images/speakers/patricia.png" alt="Patricia Hidalgo-Gonzalez"/>
   <div class="speaker-info">
     <h3><a href="https://patyhidalgo.github.io/phg/" target="_blank">Patricia Hidalgo-Gonzalez</a> <em>(UC San Diego)</em></h3>
-    <p>Patricia Hidalgo-Gonzalez is an Assistant Professor in the Department of Mechanical and Aerospace Engineering at UC San Diego, where she directs the Renewable Energy and Advanced Mathematics (REAM) Lab. Her research applies optimization, control theory, and machine learning to the challenges of integrating high levels of renewable energy into the grid, spanning power dynamics, electricity market redesign, and safety-constrained learning for dynamical systems.</p>
+    <p>Patricia Hidalgo-Gonzalez is an Associate Professor in the Department of Mechanical and Aerospace Engineering at UC San Diego, where she directs the Renewable Energy and Advanced Mathematics (REAM) Lab. Her research applies optimization, control theory, and machine learning to the challenges of integrating high levels of renewable energy into the grid, spanning power dynamics, electricity market redesign, and safety-constrained learning for dynamical systems.</p>
   </div>
 </div>
 
