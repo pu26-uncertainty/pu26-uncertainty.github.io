@@ -163,7 +163,7 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
   </div>
 </div>
 
-<p>Other panelists include Alice Yake (Jackson) (Breakthrough Energy), Jesse Jenkins (Princeton University), and Bethany Frew (NLR).</p>
+<p>Other panelists include Alice Yake (Breakthrough Energy), Jesse Jenkins (Princeton University), and Bethany Frew (NLR).</p>
 
 <p class="moderator-label">Moderator</p>
 
