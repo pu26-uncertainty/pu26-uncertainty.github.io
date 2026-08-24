@@ -39,6 +39,31 @@ permalink: /speaker-bios/
   background-clip: text;
 }
 
+.moderator-label {
+  margin: 2rem 0 1rem;
+  font-size: 0.85em;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #a699cc;
+  border-top: 2px solid #a699cc44;
+  padding-top: 0.75rem;
+}
+.speaker .photo-placeholder {
+  width: 110px;
+  height: 110px;
+  border-radius: 6px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #a699cc, #f0a090);
+  color: #fff;
+  font-size: 2rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+}
+
 .speaker-nav {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -140,6 +165,16 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
 
 <p>Other panelists include Alice Yake (Jackson) (Breakthrough Energy), Jesse Jenkins (Princeton University), and Bethany Frew (NLR).</p>
 
+<p class="moderator-label">Moderator</p>
+
+<div class="speaker">
+  <div class="photo-placeholder">DS</div>
+  <div class="speaker-info">
+    <h3><a href="https://eesg.mit.edu/daniel-shen" target="_blank">Daniel Shen</a> <em>(MIT)</em></h3>
+    <p>Bio coming soon.</p>
+  </div>
+</div>
+
 ## <span id="panel-2-methodological-challenges" class="gradient-heading">Panel 2: Methodological Challenges</span>
 
 <div class="speaker">
@@ -163,6 +198,17 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
   <div class="speaker-info">
     <h3><a href="https://people.llnl.gov/valenciazulu1" target="_blank">Tomas Valencia Zuluaga</a> <em>(Lawrence Livermore National Laboratory)</em></h3>
     <p>Tomas Valencia Zuluaga is a Postdoctoral Researcher in the Center for Applied Scientific Computing Division at Lawrence Livermore National Laboratory. His research is at the intersection of energy systems and optimization, including electricity markets and power system planning, with current work developing optimization models and algorithms for power grid expansion planning using high-performance computing.</p>
+  </div>
+</div>
+
+
+<p class="moderator-label">Moderator</p>
+
+<div class="speaker">
+  <img src="/assets/images/speakers/gabe.jpg" alt="Gabriel Mantegna"/>
+  <div class="speaker-info">
+    <h3><a href="https://zero.lab.princeton.edu/mission-people/gabriel-mantegna/" target="_blank">Gabriel Mantegna</a> <em>(Princeton)</em></h3>
+    <p>PhD Candidate studying methods for improving representations of uncertainty in capacity expansion modeling.</p>
   </div>
 </div>
 
