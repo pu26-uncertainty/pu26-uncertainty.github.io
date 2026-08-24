@@ -52,7 +52,8 @@ permalink: /organizer-bios/
   <img src="/assets/images/organizers/lara.png" alt="Lara Booth"/>
   <div class="organizer-info">
     <h3><a href="https://www.linkedin.com/in/lcbooth/" target="_blank">Lara Booth</a> <em>(MIT)</em> <a class="organizer-email" href="mailto:lcbooth@mit.edu">lcbooth [at] mit [dot] edu</a></h3>
-    <p>PhD Student working on improved network realism and tractability in capacity and transmission expansion models.</p>
+    <p>PhD student using decomposition and learned approximations to bring network fidelity into tractable capacity and transmission expansion models.
+    </p>
   </div>
 </div>
 
