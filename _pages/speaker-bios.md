@@ -216,6 +216,14 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
 ## <span id="spotlights" class="gradient-heading">Spotlights</span>
 
 <div class="speaker">
+  <img src="/assets/images/speakers/seth.jpg" alt="Seth Blum"/>
+  <div class="speaker-info">
+    <h3><a href="https://www.ethree.com/people/seth-blum/" target="_blank">Seth Blum</a> <em>(E3)</em></h3>
+    <p>Seth Blum works on resource adequacy, distribution planning and DERs, and long-term system planning at E3, contributing to projects on electric load growth, demand-side flexibility, and resource needs, with a particular interest in the challenges posed by weather extremes and changing load patterns. He holds a Master's from MIT's Technology and Policy Program, where his research examined the impacts of heating electrification on electricity loads during extreme weather events and the implications for interregional transmission.</p>
+  </div>
+</div>
+
+<div class="speaker">
   <img src="/assets/images/speakers/aron_brenner.jpg" alt="Aron Brenner"/>
   <div class="speaker-info">
     <h3><a href="https://www.aronbrenner.com/" target="_blank">Aron Brenner</a> <em>(MIT)</em></h3>
@@ -228,14 +236,6 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
   <div class="speaker-info">
     <h3><a href="https://sites.google.com/scarletmail.rutgers.edu/mehrnoush-ghazanfariharandi/home" target="_blank">Mehrnoush Ghazanfariharandi</a> <em>(Rutgers University)</em></h3>
     <p>Mehrnoush Ghazanfariharandi is a PhD candidate in Industrial and Systems Engineering at Rutgers University, working with Professor Robert Mieth in the ROPES Lab. Her research lies at the intersection of power system optimization, machine learning, and energy economics, with a focus on addressing growing uncertainty and data complexity in modern power systems.</p>
-  </div>
-</div>
-
-<div class="speaker">
-  <img src="/assets/images/speakers/seth.jpg" alt="Seth Blum"/>
-  <div class="speaker-info">
-    <h3><a href="https://www.ethree.com/people/seth-blum/" target="_blank">Seth Blum</a> <em>(E3)</em></h3>
-    <p>Seth Blum works on resource adequacy, distribution planning and DERs, and long-term system planning at E3, contributing to projects on electric load growth, demand-side flexibility, and resource needs, with a particular interest in the challenges posed by weather extremes and changing load patterns. He holds a Master's from MIT's Technology and Policy Program, where his research examined the impacts of heating electrification on electricity loads during extreme weather events and the implications for interregional transmission.</p>
   </div>
 </div>
 
