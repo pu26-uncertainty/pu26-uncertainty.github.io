@@ -168,10 +168,10 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
 <p class="moderator-label">Moderator</p>
 
 <div class="speaker">
-  <div class="photo-placeholder">DS</div>
+  <img src="/assets/images/speakers/daniel.jpg" alt="Daniel Shen"/>
   <div class="speaker-info">
     <h3><a href="https://eesg.mit.edu/daniel-shen" target="_blank">Daniel Shen</a> <em>(MIT)</em></h3>
-    <p>Bio coming soon.</p>
+    <p>Daniel Shen is a final-year PhD candidate in Electrical Engineering and Computer Science at MIT, advised by Marija Ilic and John Parsons. He studies how energy-limited resources, such as storage and flexible demand, should be planned, operated, and modeled to deliver reliable power at least cost. His current work examines how demand uncertainty affects storage operation and energy adequacy. He is an NSF Graduate Research Fellow and has worked at The Brattle Group, the National Lab of the Rockies (formerly NREL), and Axiom Cloud, a thermal energy storage startup. Daniel holds a B.S. in Mechanical Engineering from UC Berkeley.</p>
   </div>
 </div>
 
