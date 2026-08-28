@@ -232,6 +232,14 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
 </div>
 
 <div class="speaker">
+  <img src="/assets/images/speakers/seth.jpg" alt="Seth Blum"/>
+  <div class="speaker-info">
+    <h3><a href="https://www.ethree.com/people/seth-blum/" target="_blank">Seth Blum</a> <em>(E3)</em></h3>
+    <p>Seth Blum works on resource adequacy, distribution planning and DERs, and long-term system planning at E3, contributing to projects on electric load growth, demand-side flexibility, and resource needs, with a particular interest in the challenges posed by weather extremes and changing load patterns. He holds a Master's from MIT's Technology and Policy Program, where his research examined the impacts of heating electrification on electricity loads during extreme weather events and the implications for interregional transmission.</p>
+  </div>
+</div>
+
+<div class="speaker">
   <img src="/assets/images/speakers/thomas_lee.png" alt="Thomas Lee"/>
   <div class="speaker-info">
     <h3><a href="https://www.linkedin.com/in/thomas-lee-mit" target="_blank">Thomas Lee</a> <em>(MIT)</em></h3>
