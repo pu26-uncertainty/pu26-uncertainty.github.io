@@ -16,7 +16,7 @@ permalink: /agenda/
 | 12:00–13:30 | Lunch | |
 | 13:30–14:10 | Keynote | [Jesse Jenkins](/speaker-bios/#jesse-jenkins-princeton-university) (Princeton) — tentatively: *Perspectives on uncertainty in capacity expansion* |
 | 14:10–14:20 | Break | Coffee & refreshments |
-| 14:20–15:00 | Keynote | [Bethany Frew](/speaker-bios/#bethany-frew-national-laboratory-of-the-rockies) (National Laboratory of the Rockies) — tentatively: *The role of resource adequacy in capacity expansion* |
+| 14:20–15:00 | Keynote | [Bethany Frew](/speaker-bios/#bethany-frew-national-laboratory-of-the-rockies) (National Laboratory of the Rockies) — tentatively: *Perspectives on Uncertainty and Resource Adequacy* |
 | 15:00-15:15 | Break   | Coffee & refreshments |
 | 15:15–16:00 | Panel 2 | Methodological Challenges in Capacity Expansion |
 | 16:05–16:45 | Roundtable 2 | Interactive session with panelists |
