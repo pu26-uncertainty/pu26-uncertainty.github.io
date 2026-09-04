@@ -9,7 +9,7 @@ permalink: /agenda/
 |------|---------|-------------|
 | 08:30–08:40 | Introduction | Welcome, goals, overview |
 | 08:40–09:20 | Keynote | [Alice Yake](/speaker-bios/#alice-yake-breakthrough-energy) (Breakthrough Energy) — tentatively: *Industry Perspectives on Uncertainty and Integrated Planning* |
-| 09:25–10:15 | Spotlight Talks | Junior researcher proposals; short-format contributed talks |
+| 09:25–10:15 | Spotlight Talks | [Thomas Lee](/speaker-bios/#thomas-lee-mit) (MIT) — *Contingencies are the heart of transmission constraints*<br>[Mehrnoush Ghazanfariharandi](/speaker-bios/#mehrnoush-ghazanfariharandi-rutgers-university) (Rutgers) — *Uncertainty-Aware Power System Planning via Gradient Descent*<br>[Seth Blum](/speaker-bios/#seth-blum-e3) (E3) — *Uncertainty in Planning Under Large or Correlated Reliability Events*<br>[Aron Brenner](/speaker-bios/#aron-brenner-mit) (MIT) — *Adaptive Scenario Generation for Planning under Uncertainty* |
 | 10:15–10:30 | Break | Coffee & refreshments |
 | 10:30–11:15 | Panel 1 | Industry Perspectives on Uncertainty in Capacity Expansion |
 | 11:20–12:00 | Roundtable 1 | Interactive session with panelists |

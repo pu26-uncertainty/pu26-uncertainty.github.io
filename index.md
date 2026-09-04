@@ -9,8 +9,8 @@ header:
   actions:
     - label: "<i class='fas fa-calendar-alt'></i> September 11, 2026"
       url: "https://power-up.us/program"
-    - label: "<i class='fas fa-map-marker-alt'></i> University of Colorado, Boulder"
-      url: "https://maps.app.goo.gl/1gqSuoZ6LMEWZvh69"
+    - label: "<i class='fas fa-map-marker-alt'></i> University Memorial Center (UMC) 382&ndash;386, CU Boulder"
+      url: "https://www.google.com/maps/place/University+Memorial+Center+(UMC)/data=!4m2!3m1!1s0x0:0x4edb4fe9469ca825"
 excerpt: "A full-day workshop at PowerUp 2026 bringing together researchers and practitioners to discuss uncertainty in energy infrastructure planning."
 ---
 

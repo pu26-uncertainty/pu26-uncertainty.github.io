@@ -218,7 +218,7 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
 <div class="speaker">
   <img src="/assets/images/speakers/seth.jpg" alt="Seth Blum"/>
   <div class="speaker-info">
-    <h3><a href="https://www.ethree.com/people/seth-blum/" target="_blank">Seth Blum</a> <em>(E3)</em></h3>
+    <h3 id="seth-blum-e3"><a href="https://www.ethree.com/people/seth-blum/" target="_blank">Seth Blum</a> <em>(E3)</em></h3>
     <p>Seth Blum works on resource adequacy, distribution planning and DERs, and long-term system planning at E3, contributing to projects on electric load growth, demand-side flexibility, and resource needs, with a particular interest in the challenges posed by weather extremes and changing load patterns. He holds a Master's from MIT's Technology and Policy Program, where his research examined the impacts of heating electrification on electricity loads during extreme weather events and the implications for interregional transmission.</p>
   </div>
 </div>
@@ -226,7 +226,7 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
 <div class="speaker">
   <img src="/assets/images/speakers/aron_brenner.jpg" alt="Aron Brenner"/>
   <div class="speaker-info">
-    <h3><a href="https://www.aronbrenner.com/" target="_blank">Aron Brenner</a> <em>(MIT)</em></h3>
+    <h3 id="aron-brenner-mit"><a href="https://www.aronbrenner.com/" target="_blank">Aron Brenner</a> <em>(MIT)</em></h3>
     <p>Aron Brenner is a doctoral student at MIT's Laboratory for Information and Decision Systems (LIDS) and a member of the Resilient Infrastructure Networks group. His research applies machine learning and optimization to the planning and operations of large-scale systems, with a focus on regional energy systems.</p>
   </div>
 </div>
@@ -234,7 +234,7 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
 <div class="speaker">
   <img src="/assets/images/speakers/mehrnoush.png" alt="Mehrnoush Ghazanfariharandi"/>
   <div class="speaker-info">
-    <h3><a href="https://sites.google.com/scarletmail.rutgers.edu/mehrnoush-ghazanfariharandi/home" target="_blank">Mehrnoush Ghazanfariharandi</a> <em>(Rutgers University)</em></h3>
+    <h3 id="mehrnoush-ghazanfariharandi-rutgers-university"><a href="https://sites.google.com/scarletmail.rutgers.edu/mehrnoush-ghazanfariharandi/home" target="_blank">Mehrnoush Ghazanfariharandi</a> <em>(Rutgers University)</em></h3>
     <p>Mehrnoush Ghazanfariharandi is a PhD candidate in Industrial and Systems Engineering at Rutgers University, working with Professor Robert Mieth in the ROPES Lab. Her research lies at the intersection of power system optimization, machine learning, and energy economics, with a focus on addressing growing uncertainty and data complexity in modern power systems.</p>
   </div>
 </div>
@@ -242,7 +242,7 @@ Thank you to our wonderful speakers! <span style="font-size:0.8em; font-style:it
 <div class="speaker">
   <img src="/assets/images/speakers/thomas_lee.png" alt="Thomas Lee"/>
   <div class="speaker-info">
-    <h3><a href="https://www.linkedin.com/in/thomas-lee-mit" target="_blank">Thomas Lee</a> <em>(MIT)</em></h3>
+    <h3 id="thomas-lee-mit"><a href="https://www.linkedin.com/in/thomas-lee-mit" target="_blank">Thomas Lee</a> <em>(MIT)</em></h3>
     <p>Thomas Lee is a PhD candidate in MIT's Institute for Data, Systems, and Society focused on optimization methods for energy systems and markets, working in Professor Andy Sun's lab and the MIT Energy Initiative. </p>
   </div>
 </div>
