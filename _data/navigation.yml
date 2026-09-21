@@ -3,13 +3,13 @@ main:
     url: /
   - title: "Overview"
     url: /overview/
-  - title: "Agenda"
-    url: /agenda/
+  - title: "Materials"
+    url: /materials/
   - title: "Speakers"
     url: /speaker-bios/
   - title: "Organizers"
     url: /organizer-bios/
-  - title: "Announcements"
-    url: /announcements/
+  - title: "Agenda"
+    url: /agenda/
   - title: "FAQs"
     url: /faqs/

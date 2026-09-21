@@ -75,11 +75,11 @@ excerpt: "A full-day workshop at PowerUp 2026 bringing together researchers and 
       <div class="nav-card-desc">Goals, motivation, and details</div>
     </div>
   </a>
-  <a class="nav-card" href="/agenda/">
+  <a class="nav-card" href="/materials/">
     <div class="nav-card-inner">
-      <div class="nav-card-icon"><i class="fas fa-calendar-day"></i></div>
-      <div class="nav-card-title">Agenda</div>
-      <div class="nav-card-desc">Interactive sessions, panels, and talks</div>
+      <div class="nav-card-icon"><i class="fas fa-file-download"></i></div>
+      <div class="nav-card-title">Materials</div>
+      <div class="nav-card-desc">Talk slides and related reading</div>
     </div>
   </a>
   <a class="nav-card" href="/speaker-bios/">
@@ -96,11 +96,11 @@ excerpt: "A full-day workshop at PowerUp 2026 bringing together researchers and 
       <div class="nav-card-desc">Meet the organizing team</div>
     </div>
   </a>
-  <a class="nav-card" href="/announcements/">
+  <a class="nav-card" href="/agenda/">
     <div class="nav-card-inner">
-      <div class="nav-card-icon"><i class="fas fa-bullhorn"></i></div>
-      <div class="nav-card-title">Announcements</div>
-      <div class="nav-card-desc">Latest news and updates</div>
+      <div class="nav-card-icon"><i class="fas fa-calendar-day"></i></div>
+      <div class="nav-card-title">Agenda</div>
+      <div class="nav-card-desc">Interactive sessions, panels, and talks</div>
     </div>
   </a>
   <a class="nav-card" href="/faqs/">
@@ -112,7 +112,9 @@ excerpt: "A full-day workshop at PowerUp 2026 bringing together researchers and 
   </a>
 </div>
 
-## <span class="gradient-heading">Latest Announcements</span>
+## <span class="gradient-heading">Workshop Materials</span>
+
+Slides from our keynote and spotlight talks are now available on the [Materials](/materials/) page.
 
 <style>
 .paper-callout {
@@ -155,4 +157,4 @@ excerpt: "A full-day workshop at PowerUp 2026 bringing together researchers and 
   <a class="paper-link" href="https://arxiv.org/abs/2604.10795" target="_blank">Read paper →</a>
 </div>
 
-<a href="/announcements/" style="font-size:0.85em;">View all announcements →</a>
+<a href="/materials/" style="font-size:0.85em;">View all materials →</a>

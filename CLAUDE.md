@@ -10,17 +10,18 @@ Public website for the **Energy Infrastructure Planning Under Uncertainty** work
 
 ## Layout
 
-- [index.md](index.md) — landing page: hero banner, nav cards, "latest announcements" callout
+- [index.md](index.md) — landing page: hero banner, nav cards, "workshop materials" callout
 - [_pages/](_pages/) — content pages, all use `layout: single` via the default in `_config.yml`:
   - [overview.md](_pages/overview.md) — workshop motivation and goals
   - [agenda.md](_pages/agenda.md) — tentative schedule (markdown table)
   - [speaker-bios.md](_pages/speaker-bios.md) — keynotes, panel 1, panel 2, spotlights
   - [organizer-bios.md](_pages/organizer-bios.md) — organizing team
-  - [announcements.md](_pages/announcements.md) — news, currently one entry (Khorramfar et al. survey)
+  - [materials.md](_pages/materials.md) — talk slides (files in [assets/slides/](assets/slides/)) plus related reading (Khorramfar et al. survey)
   - [faqs.md](_pages/faqs.md) — placeholder
 - [_includes/footer.html](_includes/footer.html) — custom footer with PowerUp link
 - [assets/css/main.scss](assets/css/main.scss) — site-wide overrides (gradient title, nav, table headers, hero buttons)
 - [assets/images/speakers/](assets/images/speakers/), [assets/images/organizers/](assets/images/organizers/) — bio photos
+- [assets/slides/](assets/slides/) — speaker slide decks, named `firstname_lastname.{pdf,pptx}`, linked from the Materials page
 
 ## Brand & conventions
 

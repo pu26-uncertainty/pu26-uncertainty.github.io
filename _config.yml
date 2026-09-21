@@ -31,13 +31,13 @@ defaults:
 navigation:
   - title: "Overview"
     url: /overview/
-  - title: "Agenda"
-    url: /agenda/
+  - title: "Materials"
+    url: /materials/
   - title: "Speaker Bios"
     url: /speaker-bios/
   - title: "Organizer Bios"
     url: /organizer-bios/
-  - title: "Announcements"
-    url: /announcements/
+  - title: "Agenda"
+    url: /agenda/
   - title: "FAQs"
     url: /faqs/
