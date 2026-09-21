@@ -35,48 +35,20 @@ permalink: /materials/
   font-size: 0.85em;
   font-weight: bold;
 }
-.slide-list {
-  margin: 1.5rem 0;
-}
-.slide-item {
-  display: flex;
-  align-items: flex-start;
-  gap: 0.9rem;
-  border: 1px solid #e6e2ef;
-  border-left: 4px solid #a699cc;
-  border-radius: 4px;
-  padding: 0.9rem 1.1rem;
-  margin-bottom: 0.8rem;
-  background: #fdfcff;
-}
-.slide-item .slide-icon {
-  font-size: 1.3em;
-  line-height: 1.4;
-  background: linear-gradient(to right, #a699cc, #f0a090);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-}
-.slide-item .slide-body {
-  flex: 1;
-}
-.slide-item .slide-title {
-  font-style: italic;
-  margin-bottom: 0.2rem;
-}
-.slide-item .slide-speaker {
-  font-size: 0.88em;
-  color: #555;
+.paper-callout .slide-label {
+  font-size: 0.92em;
+  letter-spacing: 0.1em;
   margin-bottom: 0.45rem;
 }
-.slide-item .slide-download {
-  font-size: 0.85em;
-  font-weight: bold;
+.paper-callout .slide-speaker {
+  font-size: 0.9em;
+  color: #555;
+  margin-bottom: 0.4rem;
 }
-.slide-item .slide-meta {
+.paper-callout .slide-meta {
   font-size: 0.78em;
   color: #999;
-  margin-left: 0.4rem;
+  margin-left: 0.5rem;
   font-weight: normal;
 }
 </style>
@@ -85,44 +57,32 @@ permalink: /materials/
 
 Slides shared by our speakers. More will be added as they become available.
 
-<div class="slide-list">
+<div class="paper-callout">
+  <div class="paper-label slide-label"><i class="fas fa-star"></i> Keynote</div>
+  <div class="slide-speaker"><a href="/speaker-bios/#jesse-jenkins-princeton-university">Jesse Jenkins</a> (Princeton University)</div>
+  <div class="paper-title">Perspectives on uncertainty in capacity expansion</div>
+  <a class="paper-link" href="{{ '/assets/slides/jesse_jenkins.pdf' | relative_url }}" target="_blank">View / download slides →</a><span class="slide-meta">PDF, 4.9 MB</span>
+</div>
 
-  <div class="slide-item">
-    <div class="slide-icon"><i class="fas fa-file-powerpoint"></i></div>
-    <div class="slide-body">
-      <div class="slide-title">Contingencies are the heart of transmission constraints</div>
-      <div class="slide-speaker"><a href="/speaker-bios/#thomas-lee-mit">Thomas Lee</a> (MIT) — Spotlight Talk</div>
-      <a class="slide-download" href="{{ '/assets/slides/thomas_lee.pptx' | relative_url }}">Download slides →</a><span class="slide-meta">PPTX, 16 MB</span>
-    </div>
-  </div>
+<div class="paper-callout">
+  <div class="paper-label slide-label"><i class="fas fa-microphone"></i> Spotlight Talk</div>
+  <div class="slide-speaker"><a href="/speaker-bios/#thomas-lee-mit">Thomas Lee</a> (MIT)</div>
+  <div class="paper-title">Contingencies are the heart of transmission constraints</div>
+  <a class="paper-link" href="{{ '/assets/slides/thomas_lee.pptx' | relative_url }}">Download slides →</a><span class="slide-meta">PPTX, 16 MB</span>
+</div>
 
-  <div class="slide-item">
-    <div class="slide-icon"><i class="fas fa-file-pdf"></i></div>
-    <div class="slide-body">
-      <div class="slide-title">Uncertainty-Aware Power System Planning via Gradient Descent</div>
-      <div class="slide-speaker"><a href="/speaker-bios/#mehrnoush-ghazanfariharandi-rutgers-university">Mehrnoush Ghazanfariharandi</a> (Rutgers) — Spotlight Talk</div>
-      <a class="slide-download" href="{{ '/assets/slides/mehrnoush_ghazanfariharandi.pdf' | relative_url }}" target="_blank">View / download slides →</a><span class="slide-meta">PDF, 2.5 MB</span>
-    </div>
-  </div>
+<div class="paper-callout">
+  <div class="paper-label slide-label"><i class="fas fa-microphone"></i> Spotlight Talk</div>
+  <div class="slide-speaker"><a href="/speaker-bios/#mehrnoush-ghazanfariharandi-rutgers-university">Mehrnoush Ghazanfariharandi</a> (Rutgers University)</div>
+  <div class="paper-title">Uncertainty-Aware Power System Planning via Gradient Descent</div>
+  <a class="paper-link" href="{{ '/assets/slides/mehrnoush_ghazanfariharandi.pdf' | relative_url }}" target="_blank">View / download slides →</a><span class="slide-meta">PDF, 2.5 MB</span>
+</div>
 
-  <div class="slide-item">
-    <div class="slide-icon"><i class="fas fa-file-powerpoint"></i></div>
-    <div class="slide-body">
-      <div class="slide-title">Adaptive Scenario Generation for Planning under Uncertainty</div>
-      <div class="slide-speaker"><a href="/speaker-bios/#aron-brenner-mit">Aron Brenner</a> (MIT) — Spotlight Talk</div>
-      <a class="slide-download" href="{{ '/assets/slides/aron_brenner.pptx' | relative_url }}">Download slides →</a><span class="slide-meta">PPTX, 12 MB</span>
-    </div>
-  </div>
-
-  <div class="slide-item">
-    <div class="slide-icon"><i class="fas fa-file-pdf"></i></div>
-    <div class="slide-body">
-      <div class="slide-title">Perspectives on uncertainty in capacity expansion</div>
-      <div class="slide-speaker"><a href="/speaker-bios/#jesse-jenkins-princeton-university">Jesse Jenkins</a> (Princeton) — Keynote</div>
-      <a class="slide-download" href="{{ '/assets/slides/jesse_jenkins.pdf' | relative_url }}" target="_blank">View / download slides →</a><span class="slide-meta">PDF, 4.9 MB</span>
-    </div>
-  </div>
-
+<div class="paper-callout">
+  <div class="paper-label slide-label"><i class="fas fa-microphone"></i> Spotlight Talk</div>
+  <div class="slide-speaker"><a href="/speaker-bios/#aron-brenner-mit">Aron Brenner</a> (MIT)</div>
+  <div class="paper-title">Adaptive Scenario Generation for Planning under Uncertainty</div>
+  <a class="paper-link" href="{{ '/assets/slides/aron_brenner.pptx' | relative_url }}">Download slides →</a><span class="slide-meta">PPTX, 12 MB</span>
 </div>
 
 ## <span class="gradient-heading">Related Reading</span>
