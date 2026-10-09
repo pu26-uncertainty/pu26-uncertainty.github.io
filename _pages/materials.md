@@ -59,6 +59,13 @@ Slides shared by our speakers. More will be added as they become available.
 
 <div class="paper-callout">
   <div class="paper-label slide-label"><i class="fas fa-star"></i> Keynote</div>
+  <div class="slide-speaker"><a href="/speaker-bios/#alice-yake-breakthrough-energy">Alice Yake</a> (Breakthrough Energy)</div>
+  <div class="paper-title">Industry Perspectives on Uncertainty and Integrated Planning</div>
+  <a class="paper-link" href="{{ '/assets/slides/alice_yake.pdf' | relative_url }}" target="_blank">View / download slides →</a><span class="slide-meta">PDF, 1.2 MB</span>
+</div>
+
+<div class="paper-callout">
+  <div class="paper-label slide-label"><i class="fas fa-star"></i> Keynote</div>
   <div class="slide-speaker"><a href="/speaker-bios/#jesse-jenkins-princeton-university">Jesse Jenkins</a> (Princeton University)</div>
   <div class="paper-title">Perspectives on uncertainty in capacity expansion</div>
   <a class="paper-link" href="{{ '/assets/slides/jesse_jenkins.pdf' | relative_url }}" target="_blank">View / download slides →</a><span class="slide-meta">PDF, 4.9 MB</span>
